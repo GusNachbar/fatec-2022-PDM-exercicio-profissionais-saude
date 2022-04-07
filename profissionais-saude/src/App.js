@@ -6,7 +6,7 @@ function App() {
     return {
       width: 1200,
       height: 250,
-      paddingBottom: 20,
+      paddingBottom: 25,
       margin: "auto",
       border: "1px solid",
       borderRadius: 6,
